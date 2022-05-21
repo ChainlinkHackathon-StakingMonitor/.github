@@ -1,6 +1,6 @@
 # The Monitor
 
-This repository contains the logic of our Dapp *The Monitor*, our submission to Chainlink's Spring Hachathon 2022.
+This repository contains the logic of our Dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
 
 ## What it does
 
