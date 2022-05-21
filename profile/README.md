@@ -21,3 +21,11 @@ This project contains two main repositories:
 
 It also contains a [documentation](https://github.com/ChainlinkHackathon-StakingMonitor/architecture_and_design) repository, which contains the documents we created while designing *The Monitor*.
 
+### Contract Code
+
+We developed the contract using Brownie, and use Pytest for testing. The contract makes use of Chainlink Keepers to keep an eye on when staking rewards drop on our users' addresses, and of Chainlink Price feeds to get the price of ETH in USD to trigger the swap orders set up by our users.
+
+### Front End Code
+
+Our front end uses Next.js, and makes use of Web3uikit and ethers to connect to Web 3. In addition to this, we make use of Covalent to fetch the events emitted by our contracts when a swap takes place, to display the history of swaps for each user.
+
