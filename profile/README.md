@@ -12,3 +12,10 @@ This way, you can sleep easy knowing that a portion of your staking rewards stay
 
 *The Monitor* also keeps an history of the swaps it performs on your behalf, to help with your bookkeeping and, God forbid, tax records.
 
+## The Codebase
+
+This project contains two main repositories:
+
+- (Contract Code)[https://github.com/ChainlinkHackathon-StakingMonitor/contract]
+- (Front end Code)[https://github.com/ChainlinkHackathon-StakingMonitor/front_end]
+
