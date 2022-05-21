@@ -19,5 +19,5 @@ This project contains two main repositories:
 - [Contract Code](https://github.com/ChainlinkHackathon-StakingMonitor/contract)
 - [Front end Code](https://github.com/ChainlinkHackathon-StakingMonitor/front_end)
 
-And a [documentation](https://github.com/ChainlinkHackathon-StakingMonitor/architecture_and_design) repository, which contains the documents we created while designing *The Monitor*.
+It also contains a [documentation](https://github.com/ChainlinkHackathon-StakingMonitor/architecture_and_design) repository, which contains the documents we created while designing *The Monitor*.
 
