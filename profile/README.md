@@ -23,7 +23,7 @@ It also contains a [documentation](https://github.com/ChainlinkHackathon-Staking
 
 ### Contract Code
 
-We developed the contract using Brownie, and use Pytest for testing. The contract makes use of Chainlink Keepers to keep an eye on when staking rewards drop on our users' addresses, and of Chainlink Price feeds to get the price of ETH in USD to trigger the swap orders set up by our users.
+We developed the contract using Brownie, and use Pytest for testing. The contract makes use of Chainlink's Keepers to keep an eye on when staking rewards drop on our users' addresses, and of Chainlink's Price feeds to get the price of ETH in USD to trigger the swap orders set up by our users.
 
 ### Front End Code
 
