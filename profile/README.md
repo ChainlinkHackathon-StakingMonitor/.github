@@ -11,8 +11,6 @@ To try it:
 - Mimic a staking reward by sending ETH (ideally lower than the amount that you deposited, to allow the swap to take place) to the address you used to deposit into *The Monitor*
 - Wait a few minutes for the upkeep to take place (currently, the upkeep interval is set to 4 minutes)
 
-make it think you're receiving staking rewards. 
-
 ## What it does
 
 *The Monitor* keeps an eye on your address and checks if you receive any staking rewards. 
