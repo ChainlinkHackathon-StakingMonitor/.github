@@ -4,7 +4,7 @@ This repository contains the codebase of our Dapp *The Monitor*, our submission 
 
 The Dapp is deploy on fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
 
-To try it:
+## Try it out
 
 - Deposit some Kovan ETH into our contract using our [front-end](https://yellow-term-9557.on.fleek.co/)
 - Set an Order (ideally with a low price for ETH, to make sure your order will trigger a swap)
