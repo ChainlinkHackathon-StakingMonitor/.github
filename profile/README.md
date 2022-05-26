@@ -2,6 +2,17 @@
 
 This repository contains the logic of our Dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
 
+The Dapp is deploy on fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
+
+To try it:
+
+- Deposit some Kovan ETH into our contract using our [front-end](https://yellow-term-9557.on.fleek.co/)
+- Set an Order (ideally with a low price for ETH, to trigger a swap)
+- Mimic a staking reward by sending ETH (ideally lower than the amount that you deposited, to allow the swap to take place) to the address you used to deposit into *The Monitor*
+- Wait a few minutes for the upkeep to take place (currently, the upkeep interval is set to 4 minutes)
+
+make it think you're receiving staking rewards. 
+
 ## What it does
 
 *The Monitor* keeps an eye on your address and checks if you receive any staking rewards. 
