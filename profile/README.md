@@ -1,6 +1,6 @@
 # The Monitor
 
-This repository contains the logic of our Dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
+This repository contains the codebase of our Dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
 
 The Dapp is deploy on fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
 
