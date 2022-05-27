@@ -4,7 +4,7 @@ This repository contains the codebase of our dapp *The Monitor*, our submission 
 
 _The Monitor_'s front-end is deployed on IPFS through fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
 
-The latest version of the contract deployed on Kovan can be seen on [Etherscan](https://kovan.etherscan.io/address/0x6736c1233D8aA9e796FD7b5eAe1a41Cdaf573170).
+The latest version of the contract deployed on Kovan can be seen on [Etherscan](https://kovan.etherscan.io/address/0x6736c1233D8aA9e796FD7b5eAe1a41Cdaf573170#code).
 
 The Keeper we registered to kepp *The Monitor* ticking on Kovan can be seen there: [https://keepers.chain.link/kovan/3303](https://keepers.chain.link/kovan/3374).
 
