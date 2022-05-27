@@ -2,7 +2,7 @@
 
 This repository contains the codebase of our Dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
 
-The Dapp is deploy on fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
+The Dapp is deployed on IPFS through fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
 
 The latest version of the contract deployed on Kovan can be seen on [Etherscan](https://kovan.etherscan.io/address/0xdde678A3E946849AA00135389Be5D827Be6F17B3).
 
