@@ -4,6 +4,11 @@ This repository contains the codebase of our Dapp *The Monitor*, our submission 
 
 The Dapp is deploy on fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
 
+The latest version of the contract deployed on Kovan can be seen on [Etherscan](https://kovan.etherscan.io/address/0xdde678A3E946849AA00135389Be5D827Be6F17B3)
+
+The Keeper we registered to kepp *The Monitor* ticking on Kovan can be seen there: [https://keepers.chain.link/kovan/3303](https://keepers.chain.link/kovan/3303)
+
+
 ## Try it out
 
 - Deposit some Kovan ETH into our contract using our [front-end](https://yellow-term-9557.on.fleek.co/)
