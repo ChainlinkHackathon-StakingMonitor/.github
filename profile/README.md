@@ -14,7 +14,7 @@ The Keeper we registered to kepp *The Monitor* ticking on Kovan can be seen ther
 - Deposit some Kovan ETH into our contract using our [front-end](https://yellow-term-9557.on.fleek.co/)
 - Set an Order (ideally with a low price for ETH, to make sure your order will trigger a swap)
 - Mimic a staking reward by sending ETH (ideally lower than the amount that you deposited, to allow the swap to take place) to the address you used to deposit into *The Monitor*
-- Wait a few minutes for the upkeep to take place (currently, the upkeep interval is set to 4 minutes)
+- Wait a few minutes for the upkeep to take place (currently, the upkeep interval is set to 15 minutes)
 
 ## What it does
 
