@@ -1,8 +1,8 @@
 # The Monitor
 
-This repository contains the codebase of our Dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
+This repository contains the codebase of our dapp *The Monitor*, our submission to Chainlink's Spring Hackathon 2022.
 
-The Dapp is deployed on IPFS through fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
+The dapp is deployed on IPFS through fleek at the following URL: [https://yellow-term-9557.on.fleek.co/](https://yellow-term-9557.on.fleek.co/).
 
 The latest version of the contract deployed on Kovan can be seen on [Etherscan](https://kovan.etherscan.io/address/0x6736c1233D8aA9e796FD7b5eAe1a41Cdaf573170).
 
@@ -39,7 +39,7 @@ It also contains a [documentation](https://github.com/ChainlinkHackathon-Staking
 
 We developed the contract using Brownie, and use Pytest for testing. The contract makes use of Chainlink's Keepers to keep an eye on when staking rewards drop on our users' addresses, and of Chainlink's Price feeds to get the price of ETH in USD to trigger the swap orders set up by our users.
 
-### Front End Code
+### Front-End Code
 
-Our front end uses Next.js, and makes use of Web3uikit and ethers to connect to Web 3. In addition to this, we make use of Covalent to fetch the events emitted by our contracts when a swap takes place, to display the history of swaps for each user.
+Our front-end uses Next.js, and makes use of Web3uikit and ethers to connect to Web 3. In addition to this, we make use of Covalent to fetch the events emitted by our contracts when a swap takes place, to display the history of swaps for each user.
 
